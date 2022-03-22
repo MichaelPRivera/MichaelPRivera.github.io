@@ -1,20 +1,17 @@
 ---
 layout: page
-title: Analysis of Economic Data
+title: Michael Rivera
 ---
 
 ##  Projects
-<a> 
-<img src="pmb2.png" alt="pmb" width="250"/>
-</a>
 
 ## Contact Information 
 
-Paul Beaumont<br/>
-Department of Economics<br/>
+Michael Rivera<br/>
+Student in Applied Economics, MS<br/>
 Florida State University <br/>
-Tallahassee, Florida, 32306 <br/>
+Tallahassee, Florida<br/>
 
-[Email:beaumont@fsu.edu](mailto:beaumont@fsu.edu)
+[Email:mpr16d@my.fsu.edu](mailto:mpr16d@my.fsu.edu)
 
-[Web Page:](https://paulmbeaumont.netlify.app/)
+[Web Page:]
