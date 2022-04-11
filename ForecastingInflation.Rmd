@@ -268,4 +268,4 @@ fc_ensemble1
 
 # Conclusion
 
-The ending results of this analysis, the total index for Industry Production variable being melted with restrictions and the ensemble were the two best indicators for forecasting the future rates of inflation. The variable meltINDPRO outperformed all other variables we replaced unemployment for. Overall, none of the variables were exceptional in showcasing these predictions. Further testing and analysis must be done to truly find something that can perform effectively.  
+The ending results of this analysis, the total index for Industry Production variable being melted with restrictions and the ensemble variable were the two best indicators for forecasting the future rates of inflation. The variable meltINDPRO outperformed all other variables we replaced unemployment for. Overall, none of the variables were exceptional in showcasing these predictions. Further testing and analysis must be done to truly find something that can perform effectively.  
