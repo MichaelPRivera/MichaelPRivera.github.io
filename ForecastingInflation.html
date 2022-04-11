@@ -2004,6 +2004,7 @@ indicators that are capable of effectively representing the
 relationship. These indicators will take place of unemployment and
 determine whether they are accurately forecasting the future inflation
 rates.</p>
+<p>Here is the link to my GitHub Page: <a href="https://michaelprivera.github.io/projects.html" class="uri">https://michaelprivera.github.io/projects.html</a></p>
 </div>
 <div id="data-usage" class="section level1">
 <h1>Data Usage</h1>
@@ -2349,9 +2350,9 @@ meltINDPRO + meltHOUST)/4\]</span></p>
 <p>In-Sample Data:</p>
 <p>The original melted variables in regard to training data set while
 comparing MAPE. This table includes the ensemble which represents the
-summary of all represented. The model is utilizing lagged inflation as
-well as the total index for Industry Production variable having the
-lowest MAPE.</p>
+summary of all represented. The model is utilizing lagged inflation
+where the total index for Industry Production variable having the lowest
+MAPE.</p>
 <pre class="r"><code>fit_ensemble1 &lt;- accuracy(fit_ensemble) %&gt;%
   select(c(&quot;.model&quot;, &quot;.type&quot;, &quot;MAPE&quot;)) %&gt;%
   kable(format = &quot;html&quot;, table.attr = &quot;style=&#39;width:30;&#39; &quot; ) %&gt;%
@@ -2437,8 +2438,8 @@ Training
 comparing MAPE. This table includes the ensemble which represents the
 summary of all represented. The MAPE for ensemble is extremely close to
 the MAPE for meltINDPRO, but it does not outperform the overall summary
-variable. The model is utilizing lagged inflation as well as the total
-index for Industry Production variable having the lowest MAPE.</p>
+variable. The model is utilizing lagged inflation where the total index
+for Industry Production variable having the lowest MAPE.</p>
 <pre class="r"><code>fc_ensemble1 &lt;- accuracy(fc_ensemble, Z) %&gt;%
   select(c(&quot;.model&quot;, &quot;.type&quot;, &quot;MAPE&quot;)) %&gt;%
   kable(format = &quot;html&quot;, table.attr = &quot;style=&#39;width:30;&#39; &quot;) %&gt;%
@@ -2519,6 +2520,13 @@ Test
 </div>
 <div id="conclusion" class="section level1">
 <h1>Conclusion</h1>
+<p>The ending results of this analysis, the total index for Industry
+Production variable being melted with restrictions and the ensemble were
+the two best indicators for forecasting the future rates of inflation.
+The variable meltINDPRO outperformed all other variables we replaced
+unemployment for. Overall, none of the variables were exceptional in
+showcasing these predictions. Further testing and analysis must be done
+to truly find something that can perform effectively.</p>
 </div>
 
 

@@ -43,6 +43,8 @@ The focus of this article is the Phillips curve regarding its development and th
 
 Inflation has become something not only do economists look at and monitor, but also the general public. Further insight into inflation and the continuation of understanding its impact on the economy is boundless. To progress towards growing comprehension, we must find indicators that are capable of effectively representing the relationship. These indicators will take place of unemployment and determine whether they are accurately forecasting the future inflation rates. 
 
+Here is the link to my GitHub Page: https://michaelprivera.github.io/projects.html
+
 # Data Usage
 
 As aforementioned, new indicators will be taking place of unemployment to see how the relationship with inflation is represented. Ideally, the search is for one that better predicts future inflation rates. 
