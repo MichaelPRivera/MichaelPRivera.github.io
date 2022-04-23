@@ -8,7 +8,6 @@ Here are examples of research projects generated with R Studio using TidyR and R
 Project | Description | HTML Output | Rmd Code
 --- | --- | --- | ---
 Forecasting Inflation | Forecasting Inflation | [html](https://michaelprivera.github.io/InflationProject/) | [code](https://github.com/MichaelPRivera/InflationProject)
-
 VARProject | VARProject | [html](https://michaelprivera.github.io/VARProject) | [code](https://github.com/MichaelPRivera/VARProject)
 
 
